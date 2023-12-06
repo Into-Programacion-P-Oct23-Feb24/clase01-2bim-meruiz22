@@ -18,6 +18,7 @@ public class Ejemplo04 {
         
         for (int i = 20; i >= 0; i-=2) {
             System.out.printf("%d\n", i);
+            //  Cuando i-=2 se va decreciendo de dos en en dos 
         }
       
     }
